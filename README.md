@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Abduls-GitHub
-- 👀 I’m interested in Front-End Development & Web Development
+- 👀 I’m interested in Back-End & Front-End Development & Web Development
 - 🌱 I’m currently learning JavaScript , SQL , React , Node.js
 - 💞️ I’m looking to collaborate on Front-End and Web Developments
 - 📫 How to reach me https://www.linkedin.com/in/abdul-gafeeth-dramat-2a1795215/
